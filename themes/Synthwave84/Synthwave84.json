@@ -17,8 +17,14 @@
     "statusbar": -447827,
     "blocked_bg": 3602934
   },
+  "fonts": {
+    "font": "Whitney"
+  },
   "colors": {
     "primary_dark_800": -14410961
   },
-  "drawable_tints": {}
+  
+  "drawable_tints": {
+    "drawable_overlay_channels_selected_dark": -935180723
+  }
 }
