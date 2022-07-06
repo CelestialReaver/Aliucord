@@ -17,7 +17,7 @@
     "accent": -2986544,
     "mention_highlight": -14410945,
     "input_background": -14016199,
-    "statusbar": -447827,
+    "statusbar": -10207833,
     "blocked_bg": 3602934
   },
   "colors": {
@@ -115,7 +115,7 @@
     "ic_channel_announcements_thread_locked": -3685155,
     "ic_channel_announcements_thread_nsfw": -3685155,
     "ic_direct_message_header": -3685155,
-    "ic_guild_folder": -14016199,
+    "ic_guild_folder": -14410961,
     "ic_menu_24dp": -3685155,
     "ic_mobile": -12339839,
     "ic_remove_friend_red_24dp": -14016199,
@@ -132,7 +132,7 @@
     "ic_thread_locked": -3685155,
     "ic_thread_nsfw": -3685155,
     "ic_transfer_red_24dp": -333995,
-    "ic_mark_unread_24dp": -2986544,
+    "ic_mark_unread_24dp": -10207833,
     "ic_unread_white_9dp_horiz": -2986544,
     "ic_unread_white_9dp": -2986544,
     "drawable_grey_user_icon": -16519687,
@@ -141,6 +141,24 @@
     "drawable_notifications_badge_border_color_tabs_background": -10207833,
     "ic_audit_emoji_grey_24dp": -10207833,
     "ic_emoji_24dp": -10207833,
-    "ic_audit_emoji_white_24dp": -10207833
+    "ic_audit_emoji_white_24dp": -10207833,
+    "ic_guild_list_dms_24dp": -14410961,
+    "drawable_guild_placeholder_primary_500": -14410961,
+    "drawable_gem_premium_guild_background_light": -14410961,
+    "asset_nux_navigation_guilds": -14410961,
+    "ic_guild_list_pending_folder": -14410961,
+    "drawable_flex_input_bg": -14016199,
+    "bg_pressed_highlight": -14016199,
+    "drawable_bg_mentions_arm_light": -10207833,
+    "drawable_bg_mentions_arm_dark": -10207833,
+    "ic_mentions_white_24dp": -10207833,
+    "ic_tab_mentions": -10207833,
+    "drawable_overlay_mentions_white": -11206401,
+    "drawable_bg_highlight": -10207833,
+    "drawable_bg_tooltip": -10207833,
+    "drawable_rect_rounded_bg_primary": -10207833,
+    "drawable_bg_nitro_gradient": -10207833,
+    "drawable_bg_radio_button_light": -10207833,
+    "drawable_bg_radio_button_dark": -10207833
   }
 }
