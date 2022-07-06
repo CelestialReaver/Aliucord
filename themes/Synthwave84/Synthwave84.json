@@ -19,7 +19,7 @@
     "blocked_bg": 3602934
   },
   "fonts": {
-    "font": "Whitney"
+    "*": "https://raw.githubusercontent.com/CelestialReaver/Aliucord/main/themes/base/fonts/whitney.ttf"
   },
   "colors": {
     "primary_dark_800": -14410961,
