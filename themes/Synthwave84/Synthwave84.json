@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "version": "0.0.1",
+    "transparency_mode": 0,
+    "author": "CelestialReaver#0001",
+    "name": "Synthwave '84",
+    "license": "MIT"
+  },
+  "background": {},
+  "simple_colors": {
+    "background": -14410961,
+    "background_secondary": -14016199,
+    "active_channel": -4804175,
+    "accent": -2986544,
+    "mention_highlight": -14410945,
+    "input_background": -14016199,
+    "statusbar": -447827,
+    "blocked_bg": 3602934
+  },
+  "colors": {
+    "primary_dark_800": -14410961
+  },
+  "drawable_tints": {}
+}
