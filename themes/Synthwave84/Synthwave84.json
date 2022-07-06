@@ -92,7 +92,8 @@
     "link_800": -10207834,
     "link_830": -10207834,
     "link_860": -10207834,
-    "link_900": -10207834
+    "link_900": -10207834,
+    "flexInputIconColor": -10207833
   },
   "drawable_tints": {
     "drawable_overlay_channels_selected_dark": -14016199,
@@ -135,6 +136,11 @@
     "ic_unread_white_9dp_horiz": -2986544,
     "ic_unread_white_9dp": -2986544,
     "drawable_grey_user_icon": -16519687,
-    "ic_gift_24sp": -16519687
+    "ic_gift_24sp": -16519687,
+    "abc_btn_borderless_material": -10207833,
+    "drawable_notifications_badge_border_color_tabs_background": -10207833,
+    "ic_audit_emoji_grey_24dp": -10207833,
+    "ic_emoji_24dp": -10207833,
+    "ic_audit_emoji_white_24dp": -10207833
   }
 }
