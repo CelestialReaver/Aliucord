@@ -1,13 +1,15 @@
 {
   "manifest": {
-    "version": "1.0.0",
-    "transparency_mode": 0,
     "author": "CelestialReaver#0001",
+    "version": "1.0.0",
     "name": "Synthwave '84",
+    "updater": "https://raw.githubusercontent.com/CelestialReaver/Aliucord/main/themes/Synthwave84/Synthwave84.json",
     "license": "MIT",
-    "updater": "https:\/\/raw.githubusercontent.com\/CelestialReaver\/Aliucord\/main/themes\/Synthwave84\/Synthwave84.json"
+    "transparency_mode": 0
   },
-  "background": {},
+  "fonts": {
+    "*": "https://raw.githubusercontent.com/CelestialReaver/Aliucord/main/themes/base/fonts/whitney.ttf"
+  },
   "simple_colors": {
     "background": -14410961,
     "background_secondary": -14016199,
@@ -17,9 +19,6 @@
     "input_background": -14016199,
     "statusbar": -447827,
     "blocked_bg": 3602934
-  },
-  "fonts": {
-    "*": "https:\/\/raw.githubusercontent.com\/CelestialReaver\/Aliucord\/main\/themes\/base\/fonts\/whitney.ttf"
   },
   "colors": {
     "primary_dark_800": -14410961,
@@ -131,6 +130,10 @@
     "ic_thread": -3685155,
     "ic_thread_locked": -3685155,
     "ic_thread_nsfw": -3685155,
-    "ic_transfer_red_24dp": -333995
+    "ic_transfer_red_24dp": -333995,
+    "ic_mark_unread_24dp": -2986544,
+    "ic_unread_white_9dp_horiz": -2986544,
+    "ic_unread_white_9dp": -2986544,
+    "drawable_grey_user_icon": -16519687
   }
 }
