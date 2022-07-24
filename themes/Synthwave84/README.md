@@ -15,6 +15,6 @@
 
 ## Misc
 * If you need support, please ask in the _#theme-support_ channel on the <a href="https://discord.gg/uwucord">Aliucord</a> Discord server.
-* If you like this theme, please consider helping other people discover this theme.
+* If you like this theme, please consider helping other people discover it.
 
 ![](https://i.imgur.com/MA2fwa2.png)
