@@ -8,7 +8,7 @@
     "transparency_mode": 0
   },
   "fonts": {
-    "*": "https://raw.githubusercontent.com/CelestialReaver/Aliucord/main/themes/base/fonts/whitney.ttf"
+    "*": "https://github.com/CelestialReaver/Aliucord/blob/main/themes/base/fonts/whitney.ttf?raw=true"
   },
   "simple_colors": {
     "background": -14410961,
