@@ -1,6 +1,6 @@
 {
   "manifest": {
-    "author": "CelestialReaver#0001",
+    "author": "CelestialReaver",
     "version": "1.0.0",
     "name": "Synthwave '84",
     "updater": "https://raw.githubusercontent.com/CelestialReaver/Aliucord/main/themes/Synthwave84/Synthwave84.json",
@@ -8,7 +8,7 @@
     "transparency_mode": 0
   },
   "fonts": {
-    "*": "https://raw.githubusercontent.com/CelestialReaver/Aliucord/main/themes/base/fonts/whitney.ttf"
+    "*": "https://raw.githubusercontent.com/CelestialReaver/Aliucord/main/themes/base/fonts/NewsCycle-Regular.ttf?raw=true"
   },
   "simple_colors": {
     "background": -14410961,
