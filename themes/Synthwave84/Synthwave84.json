@@ -14,11 +14,10 @@
     "background": -14410961,
     "background_secondary": -14016199,
     "active_channel": 1708289488,
-    "accent": -2986544,
+    "accent": -65281,
     "mention_highlight": 2127719888,
-    "input_background": -14016199,
-    "statusbar": -14016199,
-    "blocked_bg": 1725066704
+    "input_background": 1764368697,
+    "statusbar": -14016199
   },
   "colors": {
     "primary_dark_800": -14410961,
@@ -99,9 +98,8 @@
     "mtrl_textinput_filled_box_default_background_color": 1285244857,
     "mtrl_textinput_default_box_stroke_color": 1808952784,
     "abc_btn_colored_borderless_text_material": -3224262,
-    "primary_dark_660": -14410961,
+    "primary_dark_660": 1481389412,
     "primary_dark_700": -14410961,
-    "primary_dark_800": -14410961,
     "uikit_btn_bg_color_selector_background_accent_dark": -14016199,
     "uikit_btn_bg_color_selector_background_accent_light": -14016199,
     "uikit_btn_bg_color_selector_red": -16519687,
