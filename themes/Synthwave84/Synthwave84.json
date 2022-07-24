@@ -13,12 +13,12 @@
   "simple_colors": {
     "background": -14410961,
     "background_secondary": -14016199,
-    "active_channel": -4804175,
+    "active_channel": -1119885,
     "accent": -2986544,
     "mention_highlight": -14410945,
     "input_background": -14016199,
-    "statusbar": -10207833,
-    "blocked_bg": 3602934
+    "statusbar": -14016199,
+    "blocked_bg": 4560844
   },
   "colors": {
     "primary_dark_800": -14410961,
@@ -93,7 +93,17 @@
     "link_830": -10207834,
     "link_860": -10207834,
     "link_900": -10207834,
-    "flexInputIconColor": -10207833
+    "flexInputIconColor": -10207833,
+    "mtrl_textinput_filled_box_default_background_color": 177948601,
+    "mtrl_textinput_default_box_stroke_color": 1800124155,
+    "abc_btn_colored_borderless_text_material": -11815173,
+    "primary_dark_660": 530270137,
+    "uikit_btn_bg_color_selector_background_accent_dark": -3224262,
+    "uikit_btn_bg_color_selector_background_accent_light": -3224262,
+    "cardview_dark_background": -65281,
+    "background_material_dark": -65281,
+    "cardview_light_background": -65281,
+    "design_snackbar_background_color": -65281
   },
   "drawable_tints": {
     "drawable_overlay_channels_selected_dark": -14016199,
@@ -107,7 +117,7 @@
     "ic_ban_red_24dp": -14016199,
     "ic_channel_text": -3685155,
     "ic_channel_text_locked": -3685155,
-    "ic_channel_text_nsfw": -3685155,
+    "ic_channel_text_nsfw": 2046383959,
     "ic_channel_announcements": -3685155,
     "ic_channel_announcements_locked": -3685155,
     "ic_channel_announcements_nsfw": -3685155,
@@ -138,7 +148,7 @@
     "drawable_grey_user_icon": -16519687,
     "ic_gift_24sp": -16519687,
     "abc_btn_borderless_material": -10207833,
-    "drawable_notifications_badge_border_color_tabs_background": -10207833,
+    "drawable_notifications_badge_border_color_tabs_background": -1119885,
     "ic_audit_emoji_grey_24dp": -10207833,
     "ic_emoji_24dp": -10207833,
     "ic_audit_emoji_white_24dp": -10207833,
@@ -149,16 +159,24 @@
     "ic_guild_list_pending_folder": -14410961,
     "drawable_flex_input_bg": -14016199,
     "bg_pressed_highlight": -14016199,
-    "drawable_bg_mentions_arm_light": -10207833,
-    "drawable_bg_mentions_arm_dark": -10207833,
-    "ic_mentions_white_24dp": -10207833,
-    "ic_tab_mentions": -10207833,
-    "drawable_overlay_mentions_white": -11206401,
+    "drawable_bg_mentions_arm_light": -3224262,
+    "drawable_bg_mentions_arm_dark": -3224262,
+    "ic_mentions_white_24dp": -3224262,
+    "ic_tab_mentions": -3224262,
+    "drawable_overlay_mentions_white": -3224262,
     "drawable_bg_highlight": -10207833,
     "drawable_bg_tooltip": -10207833,
     "drawable_rect_rounded_bg_primary": -10207833,
     "drawable_bg_nitro_gradient": -10207833,
     "drawable_bg_radio_button_light": -10207833,
-    "drawable_bg_radio_button_dark": -10207833
+    "drawable_bg_radio_button_dark": -10207833,
+    "drawable_cpv_edit_text_background": -9008667,
+    "drawable_circle_interactive_text_normal": -9008667,
+    "button_text_color_primary_100": -9008667,
+    "abc_edit_text_material": -9008667,
+    "drawable_overlay_mentions_primary_630": -3224262,
+    "drawable_overlay_mentions": -3224262,
+    "drawable_overlay_mentions_oval_light": -3224262,
+    "drawable_overlay_mentions_oval_dark": -3224262
   }
 }
