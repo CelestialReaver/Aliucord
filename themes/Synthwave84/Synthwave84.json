@@ -1,6 +1,6 @@
 {
   "manifest": {
-    "author": "CelestialReaver",
+    "author": "CelestialReaver#0001",
     "version": "1.0.0",
     "name": "Synthwave '84",
     "updater": "https://raw.githubusercontent.com/CelestialReaver/Aliucord/main/themes/Synthwave84/Synthwave84.json",
@@ -8,23 +8,23 @@
     "transparency_mode": 0
   },
   "fonts": {
-    "*": "https://raw.githubusercontent.com/CelestialReaver/Aliucord/main/themes/base/fonts/NewsCycle-Regular.ttf?raw=true"
+    "*": "https://raw.githubusercontent.com/CelestialReaver/Aliucord/main/themes/base/fonts/whitney.ttf"
   },
   "simple_colors": {
     "background": -14410961,
     "background_secondary": -14016199,
     "active_channel": 1708289488,
-    "accent": -65281,
+    "accent": -2986544,
     "mention_highlight": 2127719888,
-    "input_background": 1764368697,
-    "statusbar": -14016199
+    "input_background": -14016199,
+    "statusbar": -14016199,
+    "blocked_bg": 1725066704
   },
   "colors": {
     "primary_dark_800": -14410961,
     "color_primary_light_130": -14410961,
     "color_primary_light_200": -14410961,
     "color_primary_700": -14410961,
-    "color_primary_700_alpha_60": -2986544,
     "color_primary_800": -14410961,
     "color_primary_500": -14410961,
     "color_primary_dark_700": -14410961,
@@ -55,7 +55,6 @@
     "brand_new_430": -10207834,
     "brand_new_460": -10207834,
     "brand_new_500": -10207834,
-    "brand_new_500_alpha": -10207834,
     "brand_new_530": -10207834,
     "brand_new_560": -10207834,
     "brand_new_600": -10207834,
@@ -98,14 +97,9 @@
     "mtrl_textinput_filled_box_default_background_color": 1285244857,
     "mtrl_textinput_default_box_stroke_color": 1808952784,
     "abc_btn_colored_borderless_text_material": -3224262,
-    "primary_dark_660": 1481389412,
-    "primary_dark_700": -14410961,
-    "uikit_btn_bg_color_selector_background_accent_dark": -14016199,
-    "uikit_btn_bg_color_selector_background_accent_light": -14016199,
-    "uikit_btn_bg_color_selector_red": -16519687,
-    "uikit_btn_compound_color_selector_dark": -3224262,
-    "uikit_btn_compound_color_selector_light": -3224262,
-    "uikit_btn_outline_color_selector_brand": -3224262,
+    "primary_dark_660": 530270137,
+    "uikit_btn_bg_color_selector_background_accent_dark": -3224262,
+    "uikit_btn_bg_color_selector_background_accent_light": -3224262,
     "cardview_dark_background": -65281,
     "background_material_dark": -65281,
     "cardview_light_background": -65281,
@@ -129,7 +123,6 @@
     "dark_grey_2": -10207834,
     "design_box_stroke_color": 1808715066,
     "design_bottom_navigation_shadow_color": 1775160634,
-    "design_bottom_navigation_item_background": -14016199,
     "dark_grey_2_alpha_10": -10207834,
     "grey_unread": -1119885,
     "input_placeholder_text_dark": 1808715066,
@@ -181,7 +174,7 @@
     "ic_mark_unread_24dp": -10207833,
     "ic_unread_white_9dp_horiz": -2986544,
     "ic_unread_white_9dp": -2986544,
-    "drawable_grey_user_icon": -9480498,
+    "drawable_grey_user_icon": -16519687,
     "ic_gift_24sp": -16519687,
     "abc_btn_borderless_material": -10207833,
     "drawable_notifications_badge_border_color_tabs_background": -1119885,
@@ -270,21 +263,6 @@
     "ic_uploads_image_light": -3224262,
     "ic_uploads_video_dark": -3224262,
     "ic_uploads_video_light": -3224262,
-    "img_remote_auth_loaded": -3224262,
-    "ic_deafen_state_dark": 911556958,
-    "ic_deafen_state_light": 896489166,
-    "ic_deafen_v2_deafened": 896489166,
-    "ic_headset_deafened_interactiveactive_light_24dp": 930043598,
-    "ic_headset_deafened_white_24dp": 930043598,
-    "ic_headset_deafened_white_a60_24dp": 946820814,
-    "ic_headset_white_18dp_deafened": 946820814,
-    "ic_headset_deafened_interactiveactive_dark_24dp": 946820814,
-    "ic_headset_deafened_grey_a60_24dp": 930043598,
-    "ic_headset_deafened_grey_24dp": 930043598,
-    "ic_deafen_v2_red_strike_primary_light_600": -1119885,
-    "ic_deafen_v2_red_strike_primary_dark_300": -7363,
-    "ic_call_toolbar_icon_camera_swap": -9480498,
-    "navigation_empty_icon": -9480498,
-    "icon_menu_copy": -9480498
+    "img_remote_auth_loaded": -3224262
   }
 }
