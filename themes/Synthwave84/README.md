@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/SynthwaveIntro-Aliucord.gif"><img src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/SynthwaveIntro-Aliucord.gif" title="source: github.com" /></a></h1>
 <p align="center">A unique retro theme that provides the perfect glow and vibe to Aliucord.</p>
 
-</br>
+<p align="center"><a href="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Synthwave84-CombinedPic.jpg"><img src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Synthwave84-CombinedPic.jpg" title="source: github.com" /></a></p>
 
 ## Features
 * _**Sleek, clean, retro, and unique**_ - carefully crafted theme that gives you a clean and unique retro experience. 
