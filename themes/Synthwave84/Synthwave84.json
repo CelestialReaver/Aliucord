@@ -77,7 +77,9 @@
     "uikit_btn_bg_color_selector_green": -12339839,
     "uikit_btn_bg_color_selector_red": -3224262,
     "uikit_settings_item_text_color_dark": -1578509,
-    "uikit_btn_bg_color_selector_background_accent_dark": -3224262
+    "uikit_btn_bg_color_selector_background_accent_dark": -3224262,
+		"uikit_btn_bg_color_selector_background_accent_light": -14410961,
+    "tooltip_background_dark": -14410961
   },
   "drawable_tints": {
     "drawable_button_grey": -14016199,
