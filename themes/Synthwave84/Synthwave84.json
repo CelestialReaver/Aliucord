@@ -90,7 +90,8 @@
     "primary_400": -14410961,
     "status_grey": -1392921037,
     "mtrl_btn_transparent_bg_color": 623123247,
-    "uikit_text_color_selector": -1578509
+    "uikit_text_color_selector": -1578509,
+		"abc_primary_text_material_dark": 2102380531
   },
   "drawable_tints": {
     "drawable_button_grey": -14016199,
@@ -141,7 +142,9 @@
     "drawable_open_folder_dark": -14410961,
     "drawable_closed_folder_dark": -14410961,
     "ic_guild_folder": -14410961,
-    "ic_guild_list_pending_folder": -14410961
+    "ic_guild_list_pending_folder": -14410961,
+		"design_dark_default_color_error": -1578509,
+		"design_default_color_error": -1578509
   },
   "raws": {}
 }
