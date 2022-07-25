@@ -11,7 +11,7 @@
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 | <img width="1604" alt="Synthwave84-3" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Sythnwave84-Aliucord-3.png"> | <img width="1604" alt="Synthwave84-2" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Sythnwave84-Aliucord-2.png"> | <img width="1604" alt="Synthwave84-4" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Sythnwave84-Aliucord-4.png"> | <img width="1604" alt="Synthwave84-6" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Sythnwave84-Aliucord-6.png"> |
-| <img width="1604" alt="Synthwave84-7" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Sythnwave84-Aliucord-7.png"> | <img width="1604" alt="Synthwave84-8" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Sythnwave84-Aliucord-8.png"> | <img width="1604" alt="Synthwave84-9" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Sythnwave84-Aliucord-9.png"> | <img width="1604" alt="Synthwave84-10" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Sythnwave84-Aliucord-10.png"> |
+| <img width="1604" alt="Synthwave84-7" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Sythnwave84-Aliucord-7.png"> | <img width="1604" alt="Synthwave84-8" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Sythnwave84-Aliucord-8.png"> | <img width="1604" alt="Synthwave84-9" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Sythnwave84-Aliucord-9.png"> | <img width="1604" alt="Synthwave84-10" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Synthwave84-Aliucord-10.png"> |
 | <img width="1604" alt="Synthwave84-11" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Synthwave84-Aliucord-11.png"> | <img width="1604" alt="Synthwave84-1" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Synthwave84-Aliucord-1.png"> | <img width="1604" alt="Synthwave84-1" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Synthwave84-Aliucord-1.png"> | <img width="1604" alt="Synthwave84-12" src="https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Synthwave84-Aliucord-12.png"> |
 
 ## Misc
@@ -19,3 +19,5 @@
 * If you like this theme, please consider helping other people discover it.
 
 ![](https://i.imgur.com/MA2fwa2.png)
+
+https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Synthwave84-Aliucord-10.png
