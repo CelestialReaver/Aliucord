@@ -135,7 +135,9 @@
     "ic_uploads_generic_dark": -3224262,
     "ic_uploads_image_dark": -3224262,
     "ic_uploads_video_dark": -3224262,
-    "img_remote_auth_loaded": -3224262
-  },
+    "img_remote_auth_loaded": -3224262,
+    "drawable_open_folder_dark": -14410961,
+    "drawable_closed_folder_dark": -14410961
+},
   "raws": {}
 }
