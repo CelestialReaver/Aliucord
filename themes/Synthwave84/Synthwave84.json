@@ -1,6 +1,6 @@
 {
   "manifest": {
-    "author": "CelestialReaver",
+    "author": "CelestialReaver#0001",
     "version": "1.0.0",
     "name": "Synthwave '84",
     "updater": "https:\/\/raw.githubusercontent.com/CelestialReaver\/Aliucord\/main\/themes\/Synthwave84\/Synthwave84.json",
@@ -20,6 +20,7 @@
     "statusbar": -14016199
   },
   "colors": {
+		"brand": -3224262,
     "brand_new": -3224262,
     "brand_new_100": -14410961,
     "brand_new_130": -14410961,
@@ -58,6 +59,7 @@
     "primary_dark_660": -14016199,
     "primary_dark_800": -14410961,
     "primary_dark_700": -14016199,
+		"primary_dark_330": -14016199,
 		"primary_material_dark": -14410961,
 		"primary_dark_material_dark": -14410961,
 		"button_material_dark": -3224262,
