@@ -70,13 +70,12 @@
         "white_800": -13553099,
         "abc_tint_switch_track": -1030329,
         "transparent": -14016199,
-        "dim_foreground_material_light": -14016199,
+				"dim_foreground_material": -14016199,
         "status_grey_200": -3224262,
         "uikit_btn_bg_color_selector_brand": -3224262,
         "uikit_btn_bg_color_selector_green": -12339839,
         "uikit_btn_bg_color_selector_red": -3224262,
         "uikit_settings_item_text_color_dark": -1578509,
-        "uikit_settings_item_text_color_light": -10207834,
 		"uikit_btn_bg_color_selector_background_accent_dark": -3224262
 },
 	"drawable_tints": {
@@ -119,13 +118,9 @@
 		"img_upload_upsell": -3224262,
 		"ic_image_upload": -3224262,
 		"ic_uploads_file_dark": -3224262,
-		"ic_uploads_file_light": -3224262,
 		"ic_uploads_generic_dark": -3224262,
-		"ic_uploads_generic_light": -3224262,
 		"ic_uploads_image_dark": -3224262,
-		"ic_uploads_image_light": -3224262,
 		"ic_uploads_video_dark": -3224262,
-		"ic_uploads_video_light": -3224262,
 		"img_remote_auth_loaded": -3224262
 	},
 	"background": {
