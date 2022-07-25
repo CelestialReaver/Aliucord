@@ -52,7 +52,7 @@
 		"primary_dark_300": -3224262,
 		"primary_dark_360": -9145225,
 		"primary_dark_600": -14410961,
-		"primary_dark_630": -14016199,
+		"primary_dark_630": -14410961,
 		"primary_dark_200": -1447185,
 		"primary_dark_400": -1447185,
 		"primary_dark_660": -14016199,
@@ -122,9 +122,6 @@
 		"ic_uploads_image_dark": -3224262,
 		"ic_uploads_video_dark": -3224262,
 		"img_remote_auth_loaded": -3224262
-	},
-	"background": {
-		"blur_radius": 0
 	},
 	"raws": {}
 }
