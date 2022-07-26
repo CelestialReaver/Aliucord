@@ -19,5 +19,3 @@
 * If you like this theme, please consider helping other people discover it.
 
 ![](https://i.imgur.com/MA2fwa2.png)
-
-https://github.com/CelestialReaver/Aliucord/blob/main/themes/Synthwave84/assets/Synthwave84-Aliucord-10.png
